@@ -15,4 +15,4 @@ The source code, binaries, assets, and associated materials are the exclusive pr
 Usage of OpsDock is subject to the terms and conditions provided by the OpsDock License Agreement.
 
 
-<img src="https://ibb.co/PybgFgx">
+<img src="https://i.ibb.co/pTsdbd2/opsdock-home.png">
