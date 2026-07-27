@@ -11,5 +11,5 @@ The source code, binaries, assets, and associated materials are the exclusive pr
 Usage of OpsDock is subject to the terms and conditions provided by the OpsDock License Agreement.
 
 <video autoplay loop muted playsinline width="800">
-  <source src="https://opsdock.dev/videos/extensions-store.webm" type="video/webm">
+  <source src="https://opsdock.tech/videos/extensions-store.webm" type="video/webm">
 </video>
