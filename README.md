@@ -1,0 +1,2 @@
+# OpsDock-Releases
+OpsDock is a fast, modular local ops workbench for developers, built with Tauri and Rust. It brings your essential developer tools into one native workspace: HTTP request testing, Git-native collections, Notion-like Pages, a KeePass-style Secret Vault, a DBeaver-like Database Manager, and installable modules such as Docker Manager, Redis Manager, and more. No Electron. No cloud account. No bloat — just a lightweight, powerful developer environment running locally.
